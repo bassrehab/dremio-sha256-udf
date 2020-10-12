@@ -6,3 +6,4 @@ Usage:
 ```
 SELECT sha256_udf(column_name) FROM some_table_vds
 ```
+As of Dremio release version v4.8.x no SHA2 - 256 implementation was available.
